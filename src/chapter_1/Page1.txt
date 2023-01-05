@@ -1,0 +1,4 @@
+Hello world
+welcome to my store
+
+Here is still not git yet, because git for keeping track of changes in files and folders
